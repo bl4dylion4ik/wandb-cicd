@@ -1,6 +1,6 @@
 name: Basic CI
 
-on: [push]
+on: push
 
 jobs:
   my-first-job:
